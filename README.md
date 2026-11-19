@@ -28,4 +28,17 @@ Bersihkan fitur AI dari Windows 11 dengan satu klik.
 2. Klik dua kali `Remove Windows AI bay Mekatik.exe`, pilih **Run as administrator**.
 3. Pilih opsi, lalu klik **Terapkan**.
 
+File `.exe` harus tetap berada satu folder dengan folder `Isi Filenya` (berisi semua file program).
+Alternatif tanpa `.exe`: jalankan `Isi Filenya\Remove Windows AI bay Mekatik.bat`.
+
+## Struktur folder
+
+```
+Remove Windows AI bay Mekatik.exe
+README.md  LICENSE  .gitignore
+Isi Filenya\
+    Remove Windows AI bay Mekatik.bat
+    src\  data\  assets\  docs\  tools\
+```
+
 Butuh Windows PowerShell 5.1 (bawaan Windows). Buat restore point sebelum menjalankan.
