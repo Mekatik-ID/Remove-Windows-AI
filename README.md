@@ -2,8 +2,6 @@
 
 <img src="Isi Filenya/assets/logo.png" alt="Remove Windows AI bay Mekatik" width="520">
 
-Bersihkan fitur AI dari Windows 11 dengan satu klik.
-
 </div>
 
 ## Fitur
